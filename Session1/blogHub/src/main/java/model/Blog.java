@@ -70,6 +70,22 @@ public class Blog {
         this.blogStatus = blogStatus;
     }
 
+    public Long getLikeCount() {
+        return likeCount;
+    }
+
+    public void setLikeCount(Long likeCount) {
+        this.likeCount = likeCount;
+    }
+
+    public List<BlogComment> getBlogCommentList() {
+        return blogCommentList;
+    }
+
+    public void setBlogCommentList(List<BlogComment> blogCommentList) {
+        this.blogCommentList = blogCommentList;
+    }
+
     @Override
     public String toString() {
         return "Blog{" +

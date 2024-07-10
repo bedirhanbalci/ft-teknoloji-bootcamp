@@ -36,4 +36,14 @@ public class BlogComment {
     public BlogCommentType getBlogCommentType() {
         return blogCommentType;
     }
+
+    @Override
+    public String toString() {
+        return "BlogComment{" +
+                "user=" + user +
+                ", comment='" + comment + '\'' +
+                ", createdDate=" + createdDate +
+                ", blogCommentType=" + blogCommentType +
+                '}';
+    }
 }
