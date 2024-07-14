@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b22dafa-03b8-42a9-9332-1cc1b5d5265e" name="Changes" comment="Refactored Codes" />
+    <list default="true" id="4b22dafa-03b8-42a9-9332-1cc1b5d5265e" name="Changes" comment="Refactored Codes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session2/blogHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session2/blogHub/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/TRON PCH/OneDrive/Masaüstü/ft-teknoloji-bootcamp/Session2/blogHub",
+    "last_opened_file_path": "C:/RentACar-BackEnd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,6 +98,8 @@
       <workItem from="1720805067698" duration="41000" />
       <workItem from="1720807381823" duration="14000" />
       <workItem from="1720807411623" duration="15000" />
+      <workItem from="1720956250428" duration="5000" />
+      <workItem from="1720956293712" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="Added Java basics and OOP concepts">
       <option name="closed" value="true" />

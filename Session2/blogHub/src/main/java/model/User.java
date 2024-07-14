@@ -23,7 +23,7 @@ public class User {
 
     private Set<SocialMedia> socialMediaList;
 
-    private List<Blog> blogList;
+    private List<Blog> blogList = new ArrayList<>();
 
     private List<BlogTag> followedTagList = new ArrayList<>();
 

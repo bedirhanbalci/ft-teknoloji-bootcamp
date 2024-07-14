@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b22dafa-03b8-42a9-9332-1cc1b5d5265e" name="Changes" comment="Refactored Codes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/BlogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/UserService.java" afterDir="false" />
+    <list default="true" id="4b22dafa-03b8-42a9-9332-1cc1b5d5265e" name="Changes" comment="Added: Code improvement made by adhering to Clean Code principles">
+      <change beforePath="$PROJECT_DIR$/../../Session1/blogHub/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session1/blogHub/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session1/blogHub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session1/blogHub/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
@@ -100,7 +104,14 @@
       <workItem from="1720562612036" duration="5729000" />
       <workItem from="1720646314144" duration="5259000" />
       <workItem from="1720651594892" duration="424000" />
-      <workItem from="1720807427969" duration="15872000" />
+      <workItem from="1720807427969" duration="16453000" />
+      <workItem from="1720828389761" duration="218000" />
+      <workItem from="1720895663251" duration="16000" />
+      <workItem from="1720900835850" duration="69000" />
+      <workItem from="1720905859997" duration="3031000" />
+      <workItem from="1720911088879" duration="47000" />
+      <workItem from="1720965502725" duration="2929000" />
+      <workItem from="1720986813216" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="Added Java basics and OOP concepts">
       <option name="closed" value="true" />
@@ -118,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720651771705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added: Code improvement made by adhering to Clean Code principles">
+      <option name="closed" value="true" />
+      <created>1720827608549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720827608549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added: Code improvement made by adhering to Clean Code principles">
+      <option name="closed" value="true" />
+      <created>1720827646459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720827646459</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +154,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Java basics and OOP concepts" />
     <MESSAGE value="Refactored Codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored Codes" />
+    <MESSAGE value="Added: Code improvement made by adhering to Clean Code principles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added: Code improvement made by adhering to Clean Code principles" />
   </component>
 </project>
