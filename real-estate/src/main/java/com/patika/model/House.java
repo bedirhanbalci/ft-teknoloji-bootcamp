@@ -1,5 +1,9 @@
 package com.patika.model;
 
+/**
+ * Genel bir evi temsil eder. Temel özellikler olarak fiyat, metrekare,
+ * oda sayısı ve oturma odası sayısını içerir.
+ */
 public class House {
 
     private double price;
@@ -10,6 +14,7 @@ public class House {
 
     private int numberOfLivingRooms;
 
+    // Evin özelliklerini başlatmak için yapıcı (constructor) metod
     public House(double price, double squareMeters, int numberOfRooms, int numberOfLivingRooms) {
         this.price = price;
         this.squareMeters = squareMeters;
@@ -17,6 +22,7 @@ public class House {
         this.numberOfLivingRooms = numberOfLivingRooms;
     }
 
+    // Her bir özelliğin getter metodları
     public double getPrice() {
         return price;
     }
